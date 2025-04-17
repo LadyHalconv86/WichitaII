@@ -50,7 +50,7 @@ public class Principal {
                     System.out.println("Operación finalizada");
                     break;
                 default:
-                    System.out.println("Opción no válida. Por favor, inténtalo de nuevo"); // Mensaje por defecto si se indica
+                    System.out.println("Opción no válida. Por favor, inténtalo de nuevo, por favor"); // Mensaje por defecto si se indica
                 // una opción diferente a 1, 2,
                 // 3 o 4
             }
